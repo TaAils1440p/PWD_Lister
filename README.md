@@ -1,4 +1,4 @@
-# PWS Lister
+# PWD Lister
 
 This project generates 20 million random passwords of 1 to 15 characters and writes them to a CSV file.
 > Canbe useful for a John the Ripper dictionnary (FOR EDUCATIONAL PURPOSES ONLY!)
