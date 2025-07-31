@@ -1,7 +1,8 @@
 # PWD Lister
 
 This project generates 20 million random passwords of 1 to 15 characters and writes them to a CSV file.
-> Canbe useful for a John the Ripper dictionnary (FOR EDUCATIONAL PURPOSES ONLY!)
+
+> Can be useful for a John the Ripper dictionnary (FOR EDUCATIONAL PURPOSES ONLY!)
 
 ## Structure
 
@@ -13,7 +14,7 @@ This project generates 20 million random passwords of 1 to 15 characters and wri
 ## Usage
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 The file `output/passwords.csv` will be generated automatically.
